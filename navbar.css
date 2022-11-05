@@ -380,9 +380,7 @@ Animations
   /* Footer CSS */
   /* Footer CSS */
 #Vedant .amlhead{
-
-    font-family: Proxima_Bold;
-
+    font-family: 'proxima';
     color: #ae0957;
     font-weight: 600;
     font-size: 2.2rem;
@@ -447,7 +445,7 @@ footer {
 #Vedant .heading {
     font-size: 1.3rem;
     color: #ae0957;
-    font-family: 'Proxima_Bold';
+    font-family: 'proxima';
     /* margin-top: 10%; */
     margin-bottom: 1.2rem;
 }
