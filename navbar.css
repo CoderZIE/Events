@@ -458,7 +458,7 @@ footer {
   /* justify-content: center; */
   /* align-items: center; */
   width: 15%;
-  margin-top:2rem;
+  margin-top:-6rem;
   padding-left: 2rem;
   margin-inline: 1.5rem;
   margin-left: 5%;
@@ -482,7 +482,7 @@ footer {
 #Vedant .ext-links {
   display: flex;
   flex-direction: column;
-  margin-top: 2rem;
+  margin-top: -5rem;
   width: 15%;
 }
 
@@ -661,7 +661,6 @@ font-family:Proxima;
 .back-to-top.active {
   visibility: visible;
   opacity: 1;
-
 }
 
 @media only screen and (min-width:900px) and (max-width:1200px){
@@ -711,9 +710,11 @@ font-family:Proxima;
       flex-wrap: wrap;
       justify-content: space-around;
   }
+  
   #Vedant *{
       font-size: 8px;
   }
+  
   #Vedant .ql{
       margin-left: 8rem;
       padding: 0;
@@ -733,8 +734,8 @@ font-family:Proxima;
 @media only screen and (max-width: 300px){
   #Vedant .ql{
       margin-left: 5rem;
-
-}
+  }
+  
 }
 
 /* Rudra CSS */
