@@ -1,3 +1,25 @@
+@font-face {
+  font-family: Helvetica_Bold;
+  src: url("./Helvetica-Neue-Bold_22498.ttf");
+}
+
+@font-face {
+  font-family: Proxima_Bold;
+  font-weight: 600;
+  src: url("./FontsFree-Net-Proxima-Nova-Bold.otf");
+}
+
+@font-face {
+  font-family: Helvetica_Medium;
+  src: url("./HelveticaNeue-Medium.otf");
+}
+
+@font-face {
+  font-family: Proxima;
+  font-weight: 900;
+  src: url("./Proxima\ Nova\ Font.otf");
+}
+
 #Vedant .vbamlhead{
 
     font-family: Proxima_Bold;
