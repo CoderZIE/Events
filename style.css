@@ -80,7 +80,7 @@ body {
 .heading1{
     font-weight: 600;
     margin-top: 80px;
-    font-size: 40px;
+    font-size: 200%;
     font-family: Helvetica_Bold;
     color: white;
 }
@@ -93,7 +93,7 @@ body {
 }
 
 .line1{
-    width: 15%;
+    width: 6rem;
 }
 
 
