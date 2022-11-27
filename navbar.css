@@ -86,7 +86,13 @@
   /* font-size: 5px; */
   color: white;
   width: max-content;
+  transition-property: width, height;
 }
+  
+.horizontalNavElement :hover {
+    width: 100px;
+    height: 100px;
+  }
 
 /*  */
 #toggle {
